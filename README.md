@@ -260,28 +260,28 @@ At high altitude, cold temperatures reduce effective Li-Po capacity. Use insulat
 Shoutout to the team who designed, implemented, tested, and documented this project:
 
 1. Yousef Amr Abdelazeem Elbish
-   LinkedIn: https://linkedin.com/in/elbish1
-   Portfolio: https://yousef-elbish.vercel.app  
+   - LinkedIn: https://linkedin.com/in/elbish1
+   - Portfolio: https://yousef-elbish.vercel.app  
 2. Noor Mohamed Elmansy
-   LinkedIn: https://www.linkedin.com/in/noor-elmansy-309b99313
-   Portfolio: https://noor-portofolio.netlify.app  
+   - LinkedIn: https://www.linkedin.com/in/noor-elmansy-309b99313
+   - Portfolio: https://noor-portofolio.netlify.app  
 3. Fatma Mohamed Soliman
-   LinkedIn: https://www.linkedin.com/in/fatma-mohamed-b5982029
-   Portfolio: https://cute-twilight-78cf35.netlify.app/  
+   - LinkedIn: https://www.linkedin.com/in/fatma-mohamed-b5982029
+   - Portfolio: https://cute-twilight-78cf35.netlify.app/  
 4. Ahmed Kamel Hassanin
-   LinkedIn: https://www.linkedin.com/in/ahmed-kamel-4b161828a  
+   - LinkedIn: https://www.linkedin.com/in/ahmed-kamel-4b161828a  
 5. Abanoub Amir George
-   LinkedIn: https://www.linkedin.com/in/abanoub-amir-6a1b512a3  
+   - LinkedIn: https://www.linkedin.com/in/abanoub-amir-6a1b512a3  
 6. Nada Wesam Alhlwany
-   LinkedIn: https://www.linkedin.com/in/nada-wesam  
+   - LinkedIn: https://www.linkedin.com/in/nada-wesam  
 7. Sohaila Adel Nassar
-   LinkedIn: https://www.linkedin.com/in/sohaila-adel-2b01502b8  
+   - LinkedIn: https://www.linkedin.com/in/sohaila-adel-2b01502b8  
 8. Mahmoud Abdelghany Depian
-   LinkedIn: https://www.linkedin.com/in/mahmoud-depian  
+   - LinkedIn: https://www.linkedin.com/in/mahmoud-depian  
 9. Adham Sameh
-   LinkedIn: https://www.linkedin.com/in/adham-sameh-8b2a6b378  
+   - LinkedIn: https://www.linkedin.com/in/adham-sameh-8b2a6b378  
 10. Ola Zaher Mohamed
-    LinkedIn: https://www.linkedin.com/in/ola-zaher  
+   - LinkedIn: https://www.linkedin.com/in/ola-zaher  
 11. Mohamed Abdallah Mohamed (ID: 2301202)  
 
 ---
