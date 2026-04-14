@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.Python
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+
+# Logs and runtime output
+flight_data/*.csv
+flight_data/system.log
+photos/
+

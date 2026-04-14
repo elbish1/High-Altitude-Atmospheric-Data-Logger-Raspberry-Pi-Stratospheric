@@ -1,0 +1,15 @@
+# HAB Logger — Windows dependencies
+# Only stdlib is used for simulation, so there is NOTHING to install.
+#
+# The following are used and are all built into Python 3.10+:
+#   csv, os, time, math, random, struct, zlib, threading,
+#   signal, logging, datetime, tkinter
+#
+# ── Post-flight analysis (optional, run on laptop after flight) ───────────────
+# pip install pandas matplotlib
+#
+# ── When you move to a real Raspberry Pi, install these instead: ──────────────
+# pip3 install adafruit-circuitpython-bme280 adafruit-blinka
+# pip3 install mpu6050-raspberrypi
+# pip3 install pyserial pynmea2
+# pip3 install picamera2
