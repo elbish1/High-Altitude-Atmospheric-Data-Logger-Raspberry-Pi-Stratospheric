@@ -1,4 +1,4 @@
-# High-Altitude Atmospheric Data Logger (HAB Payload) — Raspberry Pi Stratospheric Project
+# High-Altitude Atmospheric Data Logger (HAB Payload) - Raspberry Pi Stratospheric Project
 
 An **IoT high-altitude balloon (HAB) payload** that logs atmospheric + motion + GPS data to **CSV** and provides a **live ground-monitor GUI** (Windows simulation).  
 Designed to be portable: the core loop stays the same, and you **swap simulated sensors for real Raspberry Pi sensor readers** when deploying.
@@ -253,22 +253,35 @@ At high altitude, cold temperatures reduce effective Li-Po capacity. Use insulat
 
 ### Submitted to
 
-- **Dr. Eman Salah** — with sincere appreciation for her guidance, feedback, and support.
+- **Dr. Eman Salah** - with sincere appreciation for her guidance, feedback, and support.
 
 ### Team members
 
 Shoutout to the team who designed, implemented, tested, and documented this project:
 
-1. Yousef Amr Abdelazeem Elbish (ID: 2301295) — LinkedIn: https://linkedin.com/in/elbish1 — Portfolio: https://yousef-elbish.vercel.app  
-2. Noor Mohamed Elmansy (ID: 2301271) — LinkedIn: https://www.linkedin.com/in/noor-elmansy-309b99313 — Portfolio: https://noor-portofolio.netlify.app  
-3. Fatma Mohamed Soliman (ID: 2301166) — LinkedIn: https://www.linkedin.com/in/fatma-mohamed-b59820290 — Portfolio: https://cute-twilight-78cf35.netlify.app/  
-4. Ahmed Kamel Hassanin (ID: 2301030) — LinkedIn: https://www.linkedin.com/in/ahmed-kamel-4b161828a  
-5. Abanoub Amir George (ID: 2301001) — LinkedIn: https://www.linkedin.com/in/abanoub-amir-6a1b512a3  
-6. Nada Wesam Alhlwany (ID: 2301270) — LinkedIn: https://www.linkedin.com/in/nada-wesam  
-7. Sohaila Adel Nassar (ID: 2301118) — LinkedIn: https://www.linkedin.com/in/sohaila-adel-2b01502b8  
-8. Mahmoud Abdelghany Depian (ID: 2301226) — LinkedIn: https://www.linkedin.com/in/mahmoud-depian  
-9. Adham Sameh (ID: 2301047) — LinkedIn: https://www.linkedin.com/in/adham-sameh-8b2a6b378  
-10. Ola Zaher Mohamed (ID: 2301153) — LinkedIn: https://www.linkedin.com/in/ola-zaher  
+1. Yousef Amr Abdelazeem Elbish
+   LinkedIn: https://linkedin.com/in/elbish1
+   Portfolio: https://yousef-elbish.vercel.app  
+2. Noor Mohamed Elmansy
+   LinkedIn: https://www.linkedin.com/in/noor-elmansy-309b99313
+   Portfolio: https://noor-portofolio.netlify.app  
+3. Fatma Mohamed Soliman
+   LinkedIn: https://www.linkedin.com/in/fatma-mohamed-b5982029
+   Portfolio: https://cute-twilight-78cf35.netlify.app/  
+4. Ahmed Kamel Hassanin
+   LinkedIn: https://www.linkedin.com/in/ahmed-kamel-4b161828a  
+5. Abanoub Amir George
+   LinkedIn: https://www.linkedin.com/in/abanoub-amir-6a1b512a3  
+6. Nada Wesam Alhlwany
+   LinkedIn: https://www.linkedin.com/in/nada-wesam  
+7. Sohaila Adel Nassar
+   LinkedIn: https://www.linkedin.com/in/sohaila-adel-2b01502b8  
+8. Mahmoud Abdelghany Depian
+   LinkedIn: https://www.linkedin.com/in/mahmoud-depian  
+9. Adham Sameh
+   LinkedIn: https://www.linkedin.com/in/adham-sameh-8b2a6b378  
+10. Ola Zaher Mohamed
+    LinkedIn: https://www.linkedin.com/in/ola-zaher  
 11. Mohamed Abdallah Mohamed (ID: 2301202)  
 
 ---
